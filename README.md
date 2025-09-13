@@ -1,34 +1,38 @@
-**Blinkit Power BI Dashboard Project**
+### Blinkit Power BI Dashboard Project
 
 ![img alt](Dashboard/Home.png)
-![img alt](Dashboard/Sales Overview.png)
-![img alt](Dashboard/Filter Panel.png)
+
+![img alt](https://github.com/satyambasu/Blinkit_PBI_Dashboard/blob/829b5015eb1a38d767b08594f5ed46a0c8866ca3/Dashboard/Sales%20Overview.png)
+
+![img alt](https://github.com/satyambasu/Blinkit_PBI_Dashboard/blob/829b5015eb1a38d767b08594f5ed46a0c8866ca3/Dashboard/Filter%20Panel.png)
+
 ![img alt](Dashboard/Feedbacks.png)
 
 Project Overview
 
 Blinkit is a quick-commerce platform delivering groceries and essentials in minutes. With high-volume orders, inventory movement, and customer interactions, managing and analyzing operational data efficiently is critical.This project focuses on building a comprehensive Power BI dashboard to consolidate key metrics, visualize trends, and provide actionable insights for better decision-making and operational efficiency.
 
-Goals
-•	Track key performance indicators (KPIs) including:
-  -Daily/weekly/monthly orders
-  -Delivery times and bottlenecks
-  -Inventory status and restocking needs
-  -Customer satisfaction and feedback trends
-•	Revenue and profit margins
-  -Enable interactive data exploration with real-time updates and dynamic filtering.
-  -Support data-driven decisions to improve efficiency and customer experience.
-  
-Target Audience
-•	Business stakeholders seeking high-level performance summaries
-•	Operations managers monitoring processes and logistics
-•	Data analysts exploring backend data for deeper insights
+## Goals
+Track key performance indicators (KPIs) including:
+  - Daily/weekly/monthly orders
+  - Delivery times and bottlenecks
+  - Inventory status and restocking needs
+  - Customer satisfaction and feedback trends
+ Revenue and profit margins
+- Enable interactive data exploration with real-time updates and dynamic filtering
+- Support data-driven decisions to improve efficiency and customer experience
 
-Key Features
-•	Intuitive charts: line charts, bar charts, pie charts, gauges
-•	Drill-down capabilities for detailed analysis
-•	Filters by time, region, or product category
-•	Exportable reports for sharing with team members
+## Target Audience
+- Business stakeholders seeking high-level performance summaries
+- Operations managers monitoring processes and logistics
+- Data analysts exploring backend data for deeper insights
+
+## Key Features
+- Intuitive charts: line charts, bar charts, pie charts, gauges
+- Drill-down capabilities for detailed analysis
+- Filters by time, region, or product category
+- Exportable reports for sharing with team members
+
 
 Conclusion
 
