@@ -2,10 +2,11 @@
 
 Project Overview
 
-https://app.powerbi.com/reportEmbed?reportId=d770eb38-fb55-48a2-bdba-258f4c38872c&autoAuth=true&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71
-
-
 Blinkit is a quick-commerce platform delivering groceries and essentials in minutes. With high-volume orders, inventory movement, and customer interactions, managing and analyzing operational data efficiently is critical.This project focuses on building a comprehensive Power BI dashboard to consolidate key metrics, visualize trends, and provide actionable insights for better decision-making and operational efficiency.
+
+Explore the interactive dashboard here:  
+🌐 [View Blinkit Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I1MzY0MWUtYzhlZC00MWU4LTk2YWYtNjkwYmE0YzcxMDI5IiwidCI6IjM5ZjVmZTA0LTM3NmEtNGI4OC04NGM0LTZlYmYyNTMzMjgyNiJ9)
+
 
 ![img alt](Dashboard/Home.png)
 
@@ -39,5 +40,7 @@ Track key performance indicators (KPIs) including:
 ## Conclusion
 
 The Blinkit Power BI Dashboard project demonstrates how data can be transformed into actionable insights to drive operational efficiency, improve customer experience, and support strategic decision-making. By consolidating key metrics into an interactive and visually intuitive dashboard, this project highlights the power of analytics in a fast-paced, real-world business environment and provides a scalable framework for similar quick-commerce platforms.
+
+
 
 
