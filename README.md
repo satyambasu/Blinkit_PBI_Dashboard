@@ -1,4 +1,4 @@
-Blinkit Power BI Dashboard Project
+**Blinkit Power BI Dashboard Project**
 
 ![img alt](Dashboard/Home.png)
 
