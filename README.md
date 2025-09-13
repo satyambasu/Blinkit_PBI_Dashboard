@@ -1,6 +1,6 @@
 Blinkit Power BI Dashboard Project
 
-![img alt]()
+![img alt](Dashboard/Home.png)
 
 Project Overview
 
