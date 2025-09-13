@@ -41,6 +41,10 @@ Track key performance indicators (KPIs) including:
 
 The Blinkit Power BI Dashboard project demonstrates how data can be transformed into actionable insights to drive operational efficiency, improve customer experience, and support strategic decision-making. By consolidating key metrics into an interactive and visually intuitive dashboard, this project highlights the power of analytics in a fast-paced, real-world business environment and provides a scalable framework for similar quick-commerce platforms.
 
+---
+
+📊 Built with Power BI | SQL | Data Visualization | Business Intelligence
+
 
 
 
